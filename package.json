@@ -1,6 +1,6 @@
 {
   "name": "cinemeta",
-  "version": "1.0.1",
+  "version": "1.0.1-beta",
   "description": "Search Cinemeta Film Database with ease.",
   "main": "app.js",
   "directories": {
@@ -18,8 +18,17 @@
     "database"
   ],
   "author": "2m4u",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "axios": "^0.26.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2M4U/cinemeta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2M4U/cinemeta/issues"
+  },
+  "homepage": "https://github.com/2M4U/cinemeta#readme"
 }
