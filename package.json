@@ -1,0 +1,25 @@
+{
+  "name": "cinemeta",
+  "version": "1.0.1",
+  "description": "Search Cinemeta Film Database with ease.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imdb",
+    "cinemeta",
+    "cinema",
+    "movies",
+    "search",
+    "database"
+  ],
+  "author": "2m4u",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
